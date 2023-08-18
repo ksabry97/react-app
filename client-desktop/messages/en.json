@@ -1,0 +1,104 @@
+{
+  "navbar": {
+    "home": "Home",
+    "products": "Products",
+    "inspiration": "Inspiration",
+    "aboutus": "About us",
+    "contactus": "contact us"
+  },
+  "header": {
+    "subheader": "The Best Choice For You!",
+    "header": "Choose The Modern<br /><span style='color:#ED3237;'>Houseware</span> for<br />Better Kitchen",
+    "paragraph": "Modern Houseware with of-the-moment design sense at an affordable price.",
+    "search": "Search",
+    "categories": "Categories",
+    "products": "Products"
+  },
+  "chooseus": {
+    "head": "Why Choose Us",
+    "freeshiping": {
+      "title": "Fast & Free Shipping",
+      "desc": "Everyone in this world loves and applied the minimalist design. It looks very simple"
+    },
+    "easyshop": {
+      "title": "Easy to Shop",
+      "desc": "Everyone in this world loves and applied the minimalist design. It looks very simple"
+    },
+    "support": {
+      "title": "24/7 Support",
+      "desc": "Everyone in this world loves and applied the minimalist design. It looks very simple"
+    },
+    "freereturn": {
+      "title": "Free Returns",
+      "desc": "Everyone in this world loves and applied the minimalist design. It looks very simple"
+    }
+  },
+  "popularproducts": {
+    "head": "Popular products",
+    "paragraph": "We provide the best quality product for you.",
+    "filter": "All"
+  },
+  "product": {
+    "head": "Best tools",
+    "desc": "Modern Houseware with of-the-moment design sense at an affordable price.",
+    "cta-1": "More details",
+    "cta-2": "See Details",
+    "label": {
+      "material": "Material",
+      "material-name": "Chestnut Wood",
+      "colors": "Available Colors",
+      "color-1": "Choco",
+      "color-2": "Black",
+      "color-3": "Maroon"
+    }
+  },
+  "property": {
+    "head": "Newest <span style='color:#ED3237; font-weight: bold'>Items</span> Property",
+    "desc": "Modern Houseware with of-the-moment design sense at an affordable price Modern Houseware with of-the-moment design sense at an affordable price.",
+    "property-1": "Fine material Chosen",
+    "property-2": "Healthy martial",
+    "property-3": "Pastel Coloring",
+    "property-4": "Stylish Design",
+    "property-5": "Self Production",
+    "property-6": "Best Finishing Method"
+  },
+  "inspirations": {
+    "title": "Inspiration",
+    "view-all": "View All Posts",
+    "inspiration": "First Time Home Owner Ideas"
+  },
+  "appliances": {
+    "head": "Appliances",
+    "desc": "We provide the best quality product for you."
+  },
+  "testimonials": {
+    "head": "Our <span style='color:#ED3237;'>Customer</span> Says",
+    "text": "What our lovely customer said for our product.",
+    "name": "user name",
+    "occupation": "Influencer, UAE",
+    "testimonial": "Experienced Store kitchen tools has given us the ability to choose what we need and it look like our kitchen decoration."
+  },
+
+  "footer": {
+    "menu": {
+      "head": "Menu",
+      "home": "Home",
+      "decoration": "Decoration",
+      "furniture": "Furniture"
+    },
+    "service": {
+      "head": "Services",
+      "product-update": "Product Update",
+      "free-shipping": "Free Shipping",
+      "consulting": "Consulting",
+      "gurantee": "Guarantee"
+    },
+    "info": {
+      "head": "Further Information",
+      "terms": "Terms & Conditions",
+      "policy": "Privacy Policy"
+    },
+    "copyright": "Copyright",
+    "rights": "All Rights Reserved."
+  }
+}

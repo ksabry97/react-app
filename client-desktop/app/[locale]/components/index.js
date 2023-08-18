@@ -1,0 +1,11 @@
+export { default as Navbar } from './Navbar';
+export { default as ToggleLng } from './ToggleLng';
+export { default as Search } from './Search';
+export { default as Service } from './Service';
+export { default as Category } from './Category';
+export { default as PopularProductsTags } from './PopularProductsTags';
+export { default as ProductCard } from './ProductCard';
+export { default as Cta } from './Cta.jsx';
+export { default as ItemLabel } from './ItemLabel';
+export { default as InspirationCard } from './InspirationCard';
+export { default as Testimonial } from './Testimonial';
